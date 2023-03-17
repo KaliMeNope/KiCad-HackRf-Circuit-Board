@@ -18,3 +18,7 @@ cd kicad-nightly.spec
 mkdir templates 
 cd templates 
 git clone https://github.com/KaliMeNope/KiCad-HackRf-Circuit-Board 
+
+
+Repo by KaliMeNope info at KaliMeNope@outlook.de 
+WebPage: https://KaliMeNope.de/
